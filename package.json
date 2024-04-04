@@ -1,0 +1,25 @@
+{
+ "name": "abs",
+ "description": "",
+ "version": "1.0.0",
+ "main": "index.js",
+ "type": "module",
+ "scripts": {
+  "test": "jest"
+ },
+ "devDependencies": {
+  "@babel/plugin-transform-modules-commonjs": "^7.24.1",
+  "@hexlet/immutable-fs-trees": "*",
+  "jest": "^29.7.0"
+ },
+ "repository": {
+  "type": "git",
+  "url": "git+ssh://git@github.com/nikitazh12/abs.git"
+ },
+ "author": "nikitazh12",
+ "license": "ISC",
+ "bugs": {
+  "url": "https://github.com/nikitazh12/abs/issues"
+ },
+ "homepage": "https://github.com/nikitazh12/abs#readme"
+}
